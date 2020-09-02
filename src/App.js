@@ -16,6 +16,8 @@ const App = () => {
 
     return (
         <div className="main-container">
+        //for the search field you can  use: search
+        //for fetching the data you can use: weather
         </div>
     );
 }
